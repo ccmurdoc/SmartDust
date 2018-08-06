@@ -1,0 +1,45 @@
+set yrange [-50:70]
+set xrange [-100:100]
+set xlabel "X Axis"
+set ylabel "Y Axis"
+set terminal png
+set output 'dustdataA.png'
+plot 'dustdataA.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataB.png'
+plot 'dustdataB.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataC.png'
+plot 'dustdataC.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataD.png'
+plot 'dustdataD.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataE.png'
+plot 'dustdataE.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataF.png'
+plot 'dustdataF.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataG.png'
+plot 'dustdataG.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataH.png'
+plot 'dustdataH.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataI.png'
+plot 'dustdataI.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataJ.png'
+plot 'dustdataJ.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataK.png'
+plot 'dustdataK.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataL.png'
+plot 'dustdataL.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataM.png'
+plot 'dustdataM.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataN.png'
+plot 'dustdataN.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataO.png'
+plot 'dustdataO.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataP.png'
+plot 'dustdataP.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataQ.png'
+plot 'dustdataQ.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataR.png'
+plot 'dustdataR.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataS.png'
+plot 'dustdataS.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder
+set output 'dustdataT.png'
+plot 'dustdataT.txt' with circles linecolor rgb "#FA3FBC" fill solid noborder

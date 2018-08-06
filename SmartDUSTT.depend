@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1508606558 source:z:\cs 250\smartdustt\main.cpp
+	<iostream>
+	<ctime>
+	<random>
+	<fstream>
+	<string>
+	<sstream>
+	<signal.h>
+	<target.h>
+	<dust.h>
+	<flechette.h>
+	<cstdlib>
+
+1508005158 z:\cs 250\smartdustt\include\signal.h
+	<iostream>
+
+1508005506 z:\cs 250\smartdustt\include\target.h
+	<iostream>
+
+1508005282 z:\cs 250\smartdustt\include\dust.h
+	<iostream>
+	<cmath>
+
+1508005198 z:\cs 250\smartdustt\include\flechette.h
+	<iostream>
+	<cmath>
+	"dust.h"
+	<list>
+
+1508610028 source:z:\cs\cs 250\smartdustt\main.cpp
+	<iostream>
+	<ctime>
+	<random>
+	<fstream>
+	<string>
+	<sstream>
+	<signal.h>
+	<target.h>
+	<dust.h>
+	<flechette.h>
+	<cstdlib>
+
+1508005158 z:\cs\cs 250\smartdustt\include\signal.h
+	<iostream>
+
+1508005506 z:\cs\cs 250\smartdustt\include\target.h
+	<iostream>
+
+1508005282 z:\cs\cs 250\smartdustt\include\dust.h
+	<iostream>
+	<cmath>
+
+1508005198 z:\cs\cs 250\smartdustt\include\flechette.h
+	<iostream>
+	<cmath>
+	"dust.h"
+	<list>
+
